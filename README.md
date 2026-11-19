@@ -1,2 +1,9 @@
-# Projects
-A collection of my data science, finance, mathematics, and physics projects.
+# Projetos
+
+---
+
+Uma coleção dos meus projetos em:
+
+- Engenharia Financeira
+- Matemática
+- Física
