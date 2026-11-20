@@ -1,9 +1,8 @@
-# Projetos
-
+# Projetos 
 ---
 
-Uma coleção dos meus projetos em:
+Este repositório contém uma coleção dos meus projetos em:
 
-- Engenharia Financeira
-- Matemática
-- Física
+* Engenharia Financeira;
+* Matemática;
+* Física.
